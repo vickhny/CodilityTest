@@ -8,11 +8,10 @@
 2. You are given an implementation of a funtion:
   class Solution { public int solution(int[] A) }
   which accepts as input a non-empty zero-indexed array A consisting of N integers.
-  
   The function works slowly on large input data and the goal is to optimize it so as to achieve better time and/or space complexity.
   The optimize function should return the same result as the given implementation for every input that satisfies the assumptions.
   
 3. You are given an array A of N positive integer and an integer K. Find the largest possible even sum of K elements at different positions in A.
   For Example given A = [4,9,8,2,6] and K=3, the largest even sum of three elements is 18. The three selected elements are A[0]=4, A[2]=8 and A[4]=6.
-  Similarly for given A = [ 2, 3, 3, 5, 5] and K=3, the largest even sum of three elements is 12, because 5+5+2 = 12.
+  Similarly for given A = [2,3,3,5,5] and K=3, the largest even sum of three elements is 12, because 5+5+2 = 12.
 
